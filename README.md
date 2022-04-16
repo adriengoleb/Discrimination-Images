@@ -1,9 +1,8 @@
 # Discrimination-Images
-
-L'objectif de cette deuxième partie du projet est de réaliser un système de discrimination d'images réelles. La base de données d'images à notre disposition est une base de données classique de test (base Wang) et est composée de 10 types d'images : Jungle, Plage, Monuments, Bus, Dinosaures, Eléphants, Fleurs, Chevaux, Montagne et Plats.
+My objective is to realize a real image discrimination system. The image database at our disposal is a classical test database (Wang database) and is composed of 10 types of images: Jungle, Beach, Monuments, Bus, Dinosaurs, Elephants, Flowers, Horses, Mountain and Dishes.
 
 ![image](https://user-images.githubusercontent.com/55838700/163690120-39c2d240-7b1b-4ba8-88fe-de77cf486401.png)
 
-Deux approches seront proposées :
-- Par Full -connected (descripteurs)
-- Par stratégie Deep (CNN)
+Two approaches will be proposed:
+- By Full -connected (descriptors)
+- By Deep strategy (CNN)
